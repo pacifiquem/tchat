@@ -11,12 +11,18 @@
         "How is it going",
         "What's up?",
         "How's everything?",
-        "How's world treating you?"
+        "How's world treating you?",
+        "Good Morning",
+        "Good Evening",
+        "Good Afternoon"
     ],
     "answers": [
         "Hey there!",
         "Hello",
         "Hi",
-        "Greetings!"
+        "Greetings!",
+        "Hey!!, How are you?",
+        "Hello!!, How was your day?",
+        "Kk!!, How are you doing so far today?"
     ]
 }
