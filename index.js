@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 import { NlpManager } from 'node-nlp'
-
 // Building REPL (Read Evaluate Print Loop)
 import readline from 'readline'
 import { default_answers } from './utils/helper.js'

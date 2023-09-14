@@ -20,10 +20,7 @@ for (const file of files) {
   };
 };
 
-(async function trainSave () {
-  await manager.train().catch((error) => {
-    // Handle the error here if needed.
-    console.error('Error while training:', error)
-  })
+(async function trainModel () {
+  await manager.train()
   manager.save()
 })();
