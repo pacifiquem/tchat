@@ -1,0 +1,18 @@
+{
+    "questions": [
+        "I feel really sad.",
+        "I'm struggling with loneliness.",
+        "I need someone to talk to.",
+        "I'm feeling anxious."
+    ],
+    "answers": [
+        "I'm really sorry to hear that you're feeling this way. It's important to reach out to a mental health professional or a trusted person who can provide support.",
+        "I'm not equipped to provide emotional support, but please consider talking to a friend, family member, or a mental health professional who can help you during difficult times.",
+        "I'm not a therapist, but I'm here to listen. However, I strongly recommend reaching out to a mental health expert or a support network to discuss your feelings."
+    ],
+    "follow-up": [
+        "Have you considered speaking to a mental health professional?",
+        "Is there someone you trust that you can talk to about your feelings?",
+        "Your well-being is essential. Please consider seeking help from a qualified expert"
+    ]
+}

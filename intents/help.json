@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "How do I use this chatbot?",
+        "Can you assist me with a specific task?",
+        "What are your capabilities?"
+    ],
+    "answers": [
+        "You can use this chatbot by asking questions or requesting assistance with tasks. Feel free to ask anything, and I'll do my best to assist you.",
+        "I can help with general inquiries, provide information, and perform basic tasks. Just let me know what you need."
+    ]
+}

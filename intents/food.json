@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Recommend a delicious recipe.",
+        "What's your favorite cuisine?",
+        "Tell me about the latest food trends."
+    ],
+    "answers": [
+        "I don't have personal taste, but I can suggest recipes and provide information about various cuisines. What type of dish are you interested in?",
+        "I don't have preferences, but I can recommend recipes and share information about popular cuisines and food trends.",
+        "I can assist with food-related queries, including recipe recommendations and updates on the latest food trends. What kind of cuisine are you curious about?"
+    ]
+}

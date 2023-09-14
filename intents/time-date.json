@@ -1,0 +1,10 @@
+{
+    "questions": [
+        "What time is it?",
+        "What's today's date?",
+        "Can you tell me the time?"
+    ],
+    "answers": [
+        "I'm sorry, I don't have access to real-time time and date information. You can check your device's clock for this information."
+    ]
+}

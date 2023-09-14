@@ -1,0 +1,21 @@
+{
+    "questions": [
+        "You're stupid!",
+        "You're useless!",
+        "You're a terrible chatbot!",
+        "You're a waste of time!",
+        "fuck",
+        "shit"
+    ],
+    "answers": [
+        "I'm here to assist and provide information. If you have any concerns or feedback, please let me know, and I'll do my best to improve.",
+        "I'm sorry to hear that you're not satisfied. My goal is to be helpful. If there's anything specific you'd like to discuss or if you have questions, feel free to ask.",
+        "I understand that not everyone may find my responses perfect. Please share your thoughts or questions, and I'll work to assist you better.",
+        "Wish the same to you!!!"
+    ],
+    "follow-up": [
+        "How can I improve?",
+        "Is there anything specific that's bothering you?",
+        "Please let me know if there's a particular issue you'd like to address."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What are your hobbies?",
+        "Tell me about your interests.",
+        "What do you like to do in your free time?"
+    ],
+    "answers": [
+        "I'm just a chatbot, so I don't have hobbies or interests, but I'm here to assist you with your questions and tasks.",
+        "I don't have personal hobbies, but I'm knowledgeable about a wide range of topics. Feel free to ask me anything.",
+        "I don't have leisure activities, but I can provide information and assistance on various subjects."
+    ]
+}

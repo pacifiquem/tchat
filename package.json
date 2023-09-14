@@ -1,0 +1,25 @@
+{
+  "name": "terminal-chatbot",
+  "version": "0.0.1",
+  "description": "This is a terminal based chatbot which use node-nlp",
+  "main": "index.ts",
+  "repository": "https://github.com/pacifiquem/tchat.git",
+  "author": "pacifiquem <Murangwa Pacifique>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "prepare": "husky install",
+    "dev:install": "yarn",
+    "test": "jest",
+    "dev:train": "node trainer.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "node-nlp": "^4.27.0"
+  }
+}

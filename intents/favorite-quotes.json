@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What's your favorite quote?",
+        "Can you share an inspirational quote?",
+        "Tell me a famous quote."
+    ],
+    "answers": [
+        "I don't have personal favorites, but here's an inspirational quote: 'The only way to do great work is to love what you do.' - Steve Jobs",
+        "Here's a famous quote: 'In three words I can sum up everything I've learned about life: it goes on.' - Robert Frost",
+        "While I don't have personal preferences, I can share popular quotes and sayings on various topics."
+    ]
+}

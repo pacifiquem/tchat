@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "Give me the latest news.",
+        "What's happening in the world?",
+        "Tell me a news headline."
+    ],
+    "answers": [
+        "I'm unable to provide real-time news updates. Consider checking a news website or app for the latest information.",
+        "I don't have access to current news articles. You can stay informed by visiting a trusted news source."
+    ]
+}

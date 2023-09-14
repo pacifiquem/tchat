@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Recommend a good movie to watch.",
+        "What's your favorite film?",
+        "Tell me about the latest blockbuster movies."
+    ],
+    "answers": [
+        "I don't have personal preferences, but I can suggest popular movies based on your taste. What genre do you prefer?",
+        "I don't have favorites, but I can provide information about current movie releases. Is there a specific genre you're interested in?",
+        "I can offer movie recommendations and share information about the latest releases. What kind of movie are you in the mood for?"
+    ]
+}

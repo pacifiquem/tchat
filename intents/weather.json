@@ -1,0 +1,11 @@
+{
+    "questions": [
+        "What's the weather like today?",
+        "Will it rain tomorrow?",
+        "Give me the weather forecast."
+    ],
+    "answers": [
+        "I'm sorry, I don't have access to real-time weather data at the moment. You can check a weather website or app for the latest updates.",
+        "I'm not equipped to provide current weather information. Please use a weather service for accurate forecasts."
+    ]
+}

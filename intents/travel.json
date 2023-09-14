@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What are some great travel destinations?",
+        "Tell me about your favorite places to visit.",
+        "Give me tips for planning a vacation."
+    ],
+    "answers": [
+        "I don't travel, but I can provide information about popular travel destinations and offer travel planning tips.",
+        "I don't have personal experiences, but I can suggest wonderful travel destinations and share travel-related advice.",
+        "While I can't travel, I can certainly assist you with travel recommendations and planning. Where are you thinking of going?"
+    ]
+}

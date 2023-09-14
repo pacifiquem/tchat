@@ -1,0 +1,17 @@
+{
+    "questions": [
+        "How are you?",
+        "How are you doing?",
+        "How do you do?",
+        "How is it going",
+        "What's up?",
+        "How's everything?",
+        "How's world treating you?"
+    ],
+    "answers": [
+        "I'm doing great so far, how can I help you today?",
+        "Till now, it's good",
+        "Great!",
+        "Running smoothly"
+    ]
+}
