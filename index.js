@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { NlpManager } from 'node-nlp'
 
 // Building REPL (Read Evaluate Print Loop)

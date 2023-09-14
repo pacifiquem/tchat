@@ -1,13 +1,15 @@
 {
   "name": "terminal-chatbot",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "This is a terminal based chatbot which use node-nlp",
   "main": "index.ts",
   "repository": "https://github.com/pacifiquem/tchat.git",
   "author": "pacifiquem <Murangwa Pacifique>",
   "license": "MIT",
   "private": false,
-  "bin": "node index.js",
+  "bin": {
+    "terminal-chatbot": "./index.js"
+  },
   "scripts": {
     "prepare": "husky install",
     "dev:install": "yarn",
