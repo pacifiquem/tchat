@@ -1,18 +1,22 @@
 import { NlpManager } from 'node-nlp'
-import { getRandomNumber } from '../utils/helper'
+import { getRandomNumber } from '../utils/helper.js'
+import { readdirSync, readFileSync } from 'fs'
+import path from 'path'
 const manager = new NlpManager({ languages: ['en'] })
 
 // Loading our saved model
 manager.load()
 
 // load available questions
-const files = readdirSync("../intents");
+const intents_path = path.join(__dirname, '../intents');
+const files = readdirSync(intents_path);
 
 var availableQuestions = new Array();
 
 // Looping through the files and Parsing the string to object and passing it to manager instance to train and process it.
 for (const file of files) {
-  const fileConent = readFileSync(`./intents/${file}`)
+  const fileContentLocation = path.join(__dirname, '../intents', file)
+  const fileConent = readFileSync(fileContentLocation)
   const data = JSON.parse(fileConent)
 
   for (const question of data.questions) {

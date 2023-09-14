@@ -1,4 +1,4 @@
-import { getRandomNumber } from '../utils/helper'
+import { getRandomNumber } from '../utils/helper.js'
 
 test('Check if random number generator work', () => { 
     let max_num = 10;
@@ -7,5 +7,5 @@ test('Check if random number generator work', () => {
     let random_num = getRandomNumber(min_num, max_num);
 
     expect(random_num).toBeGreaterThanOrEqual(min_num);
-    expect(value).toBeLessThanOrEqual(max_num);
+    expect(random_num).toBeLessThanOrEqual(max_num);
 });

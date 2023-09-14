@@ -2,6 +2,7 @@ import { NlpManager } from 'node-nlp'
 
 // Building REPL (Read Evaluate Print Loop)
 import readline from 'readline'
+import { default_answers } from './utils/helper.js'
 
 const manager = new NlpManager({ languages: ['en'] })
 
@@ -15,8 +16,12 @@ rl.setPrompt('> ')
 rl.prompt()
 rl.on('line', async (line) => {
   const response = await manager.process('en', line)
-  console.log(response.answer)
-  rl.prompt()
+  if (response.answer) {
+    console.log(response.answer);
+  }else {
+    console.log(default_answers.answer);
+  }
+  rl.prompt() //re-prompt
 }).on('close', function () {
   process.exit(0)
 })
