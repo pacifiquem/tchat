@@ -3,7 +3,7 @@ tchat is a terminal based chat bot that use nlp in order to respond to the promp
 
 # Installation - Usage
 
-1. Download it by running: `npm install -g terminal-chatbot`
+1. Download it by running: `npm install -g terminal-chatbot` remember `sudo` for `linux` users 😎 
 2. To run it, hit: `terminal-chatbot -p` or `terminal-chatbot --play`
 3. If you enjoyed it consider to contiributing to it's models 😁
 
