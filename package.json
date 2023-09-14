@@ -1,6 +1,6 @@
 {
   "name": "terminal-chatbot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This is a terminal based chatbot which use node-nlp",
   "main": "index.ts",
   "repository": "https://github.com/pacifiquem/tchat.git",
