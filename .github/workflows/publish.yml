@@ -26,6 +26,22 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm ci
-    - run: npm dev:train
-    - run: npm test
+    - run: yarn
+    - run: yarn run dev:train
+    - run: yarn run test
+
+publish:
+  runs-on: ubuntu-latest
+  needs: [jobs]
+  steps:
+  - uses: actions/checkout@v3
+  - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+  - run: yarn
+  - run: yarn run semantic-release
+  - run: yarn run dev:train
+  - run: yarn run test
+  - run: npm publish
