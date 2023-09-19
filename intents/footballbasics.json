@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What are the basic rules of football?",
+        "Can you explain the offside rule in football?",
+        "Who are some legendary football players?"
+    ],
+    "answers": [
+        "Football is a team sport played between two teams of eleven players each. The objective is to score goals by getting the ball into the opposing team's net.",
+        "The offside rule in football states that a player is in an offside position if they are nearer to the opponent's goal than both the ball and the second last opponent when the ball is played to them.",
+        "Some legendary football players include Pelé, Diego Maradona, and Lionel Messi."
+    ]
+}
