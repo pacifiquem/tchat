@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What are the basic rules of basketball?",
+        "How is a three-pointer scored in basketball?",
+        "Who are some legendary basketball players?"
+    ],
+    "answers": [
+        "Basketball is a team sport played between two teams of five players each. The objective is to score by shooting the ball through the opponent's hoop.",
+        "A three-pointer in basketball is scored when a player shoots the ball from beyond the three-point line and it goes through the opponent's hoop.",
+        "Some legendary basketball players include Michael Jordan, LeBron James, and Kobe Bryant."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "What are some famous football clubs?",
+        "Who won the last FIFA World Cup?",
+        "What is the role of a goalkeeper in football?"
+    ],
+    "answers": [
+        "Some famous football clubs include FC Barcelona, Real Madrid, and Manchester United.",
+        "The last FIFA World Cup was won by Argentina 2022.",
+        "The goalkeeper's primary role in football is to prevent the opposing team from scoring by stopping shots on goal."
+    ]
+}
